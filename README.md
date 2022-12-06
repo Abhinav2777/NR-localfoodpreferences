@@ -12,3 +12,5 @@ type *flask run* in the terminal after finishing the program
 link to download csv file
 
 [Click here for csv file](https://oshi.at/ArmN)
+
+rename the downloaded csv file to "RAW_recipes.csv"
